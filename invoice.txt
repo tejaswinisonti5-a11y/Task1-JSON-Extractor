@@ -1,0 +1,6 @@
+Invoice Number: INV205
+Customer Name: Arjun
+Date: 09-11-2026
+Product: Smartphone
+Quantity: 2
+Total Amount: 40000

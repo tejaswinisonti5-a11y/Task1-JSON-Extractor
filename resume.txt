@@ -1,0 +1,6 @@
+Name: Arjun Kumar
+Email: arjun@gmail.com
+Phone: 9876543210
+Skills: Python, Java, HTML, SQL
+Education: B.Tech Computer Science
+Experience: Fresher
